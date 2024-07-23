@@ -39,7 +39,7 @@ Fleet management is a critical aspect of any logistics and transportation busine
    - **Insight**: Retaining customers is more cost-effective than acquiring new ones. The data shows that improving the customer experience for those with multiple orders can lead to increased loyalty and higher lifetime value.
    - **Recommendation**: Focus on improving the overall customer experience by ensuring timely deliveries, maintaining open communication channels, and offering excellent after-sales support. Use customer feedback to continuously refine and enhance services.
 
-## To probe this report further to uncover insights base on demography ,truck type and financial year comparison click [Here](https://app.powerbi.com/view?r=eyJrIjoiZTJkZjk2YmYtYjFiZi00YTU1LWE2MzYtMGJkMDJiYWQ4OGQ3IiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9)
+## _To probe this report further to uncover insights base on geographical location ,truck type and financial year comparison click_ [_Here_](https://app.powerbi.com/view?r=eyJrIjoiZTJkZjk2YmYtYjFiZi00YTU1LWE2MzYtMGJkMDJiYWQ4OGQ3IiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9)
 
 #### Conclusion
 Effective fleet management is vital for optimizing operational efficiency and improving customer satisfaction. By focusing on drivers' KPIs such as Average Fuel Efficiency and Fuel Cost Per Kilometer, companies can reduce operational costs and enhance driver performance. Understanding customer order patterns and implementing strategies to improve retention can lead to sustained business growth. Additionally, managing maintenance costs through proactive and predictive maintenance practices can enhance vehicle reliability and reduce overall expenses.
